@@ -1,0 +1,8 @@
+<?xml version="1.0"encoding="UTF-8"?>
+<manifest>
+  <remote fetch="git//github.com" name="github" />
+  <default remote="github" revision="master"/>
+
+  <project path="java/src"  name="consoleServer"/>
+  <project path="extjs"  name="flex"/>
+</manifest>
